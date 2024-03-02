@@ -66,6 +66,14 @@
         "net8.0-android34.0": {
           "targetAlias": "net8.0-android",
           "dependencies": {
+            "CommunityToolkit.Maui": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.2.2, )"
+            },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
               "version": "[8.0.0, )"
@@ -83,6 +91,54 @@
               "target": "Package",
               "version": "[8.0.2, )",
               "autoReferenced": true
+            },
+            "Refractored.MvvmHelpers": {
+              "target": "Package",
+              "version": "[1.6.2, )"
+            },
+            "SQLite": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            },
+            "Syncfusion.Maui.Buttons": {
+              "target": "Package",
+              "version": "[24.2.8, )"
+            },
+            "Syncfusion.Maui.Calendar": {
+              "target": "Package",
+              "version": "[24.2.8, )"
+            },
+            "Syncfusion.Maui.Charts": {
+              "target": "Package",
+              "version": "[24.2.8, )"
+            },
+            "Syncfusion.Maui.Core": {
+              "target": "Package",
+              "version": "[24.2.8, )"
+            },
+            "Syncfusion.Maui.DataGrid": {
+              "target": "Package",
+              "version": "[24.2.8, )"
+            },
+            "Syncfusion.Maui.Expander": {
+              "target": "Package",
+              "version": "[24.2.8, )"
+            },
+            "Syncfusion.Maui.Picker": {
+              "target": "Package",
+              "version": "[24.2.8, )"
+            },
+            "Syncfusion.Maui.Popup": {
+              "target": "Package",
+              "version": "[24.2.8, )"
+            },
+            "Syncfusion.Maui.ProgressBar": {
+              "target": "Package",
+              "version": "[24.2.8, )"
+            },
+            "Syncfusion.Maui.TabView": {
+              "target": "Package",
+              "version": "[24.2.8, )"
             }
           },
           "imports": [
@@ -109,6 +165,14 @@
         "net8.0-ios17.2": {
           "targetAlias": "net8.0-ios",
           "dependencies": {
+            "CommunityToolkit.Maui": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.2.2, )"
+            },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
               "version": "[8.0.0, )"
@@ -126,6 +190,54 @@
               "target": "Package",
               "version": "[8.0.2, )",
               "autoReferenced": true
+            },
+            "Refractored.MvvmHelpers": {
+              "target": "Package",
+              "version": "[1.6.2, )"
+            },
+            "SQLite": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            },
+            "Syncfusion.Maui.Buttons": {
+              "target": "Package",
+              "version": "[24.2.8, )"
+            },
+            "Syncfusion.Maui.Calendar": {
+              "target": "Package",
+              "version": "[24.2.8, )"
+            },
+            "Syncfusion.Maui.Charts": {
+              "target": "Package",
+              "version": "[24.2.8, )"
+            },
+            "Syncfusion.Maui.Core": {
+              "target": "Package",
+              "version": "[24.2.8, )"
+            },
+            "Syncfusion.Maui.DataGrid": {
+              "target": "Package",
+              "version": "[24.2.8, )"
+            },
+            "Syncfusion.Maui.Expander": {
+              "target": "Package",
+              "version": "[24.2.8, )"
+            },
+            "Syncfusion.Maui.Picker": {
+              "target": "Package",
+              "version": "[24.2.8, )"
+            },
+            "Syncfusion.Maui.Popup": {
+              "target": "Package",
+              "version": "[24.2.8, )"
+            },
+            "Syncfusion.Maui.ProgressBar": {
+              "target": "Package",
+              "version": "[24.2.8, )"
+            },
+            "Syncfusion.Maui.TabView": {
+              "target": "Package",
+              "version": "[24.2.8, )"
             }
           },
           "imports": [
@@ -152,6 +264,14 @@
         "net8.0-maccatalyst17.2": {
           "targetAlias": "net8.0-maccatalyst",
           "dependencies": {
+            "CommunityToolkit.Maui": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.2.2, )"
+            },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
               "version": "[8.0.0, )"
@@ -169,6 +289,54 @@
               "target": "Package",
               "version": "[8.0.2, )",
               "autoReferenced": true
+            },
+            "Refractored.MvvmHelpers": {
+              "target": "Package",
+              "version": "[1.6.2, )"
+            },
+            "SQLite": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            },
+            "Syncfusion.Maui.Buttons": {
+              "target": "Package",
+              "version": "[24.2.8, )"
+            },
+            "Syncfusion.Maui.Calendar": {
+              "target": "Package",
+              "version": "[24.2.8, )"
+            },
+            "Syncfusion.Maui.Charts": {
+              "target": "Package",
+              "version": "[24.2.8, )"
+            },
+            "Syncfusion.Maui.Core": {
+              "target": "Package",
+              "version": "[24.2.8, )"
+            },
+            "Syncfusion.Maui.DataGrid": {
+              "target": "Package",
+              "version": "[24.2.8, )"
+            },
+            "Syncfusion.Maui.Expander": {
+              "target": "Package",
+              "version": "[24.2.8, )"
+            },
+            "Syncfusion.Maui.Picker": {
+              "target": "Package",
+              "version": "[24.2.8, )"
+            },
+            "Syncfusion.Maui.Popup": {
+              "target": "Package",
+              "version": "[24.2.8, )"
+            },
+            "Syncfusion.Maui.ProgressBar": {
+              "target": "Package",
+              "version": "[24.2.8, )"
+            },
+            "Syncfusion.Maui.TabView": {
+              "target": "Package",
+              "version": "[24.2.8, )"
             }
           },
           "imports": [
@@ -196,6 +364,14 @@
         "net8.0-windows10.0.19041": {
           "targetAlias": "net8.0-windows10.0.19041.0",
           "dependencies": {
+            "CommunityToolkit.Maui": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.2.2, )"
+            },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
               "version": "[8.0.0, )"
@@ -207,6 +383,54 @@
             "Microsoft.Maui.Controls.Compatibility": {
               "target": "Package",
               "version": "[8.0.6, )"
+            },
+            "Refractored.MvvmHelpers": {
+              "target": "Package",
+              "version": "[1.6.2, )"
+            },
+            "SQLite": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            },
+            "Syncfusion.Maui.Buttons": {
+              "target": "Package",
+              "version": "[24.2.8, )"
+            },
+            "Syncfusion.Maui.Calendar": {
+              "target": "Package",
+              "version": "[24.2.8, )"
+            },
+            "Syncfusion.Maui.Charts": {
+              "target": "Package",
+              "version": "[24.2.8, )"
+            },
+            "Syncfusion.Maui.Core": {
+              "target": "Package",
+              "version": "[24.2.8, )"
+            },
+            "Syncfusion.Maui.DataGrid": {
+              "target": "Package",
+              "version": "[24.2.8, )"
+            },
+            "Syncfusion.Maui.Expander": {
+              "target": "Package",
+              "version": "[24.2.8, )"
+            },
+            "Syncfusion.Maui.Picker": {
+              "target": "Package",
+              "version": "[24.2.8, )"
+            },
+            "Syncfusion.Maui.Popup": {
+              "target": "Package",
+              "version": "[24.2.8, )"
+            },
+            "Syncfusion.Maui.ProgressBar": {
+              "target": "Package",
+              "version": "[24.2.8, )"
+            },
+            "Syncfusion.Maui.TabView": {
+              "target": "Package",
+              "version": "[24.2.8, )"
             }
           },
           "imports": [

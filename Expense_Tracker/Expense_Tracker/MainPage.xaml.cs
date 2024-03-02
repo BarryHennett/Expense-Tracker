@@ -11,5 +11,10 @@
         {
 
         }
+
+        private void HowMuchPay_Clicked(object sender, EventArgs e)
+        {
+
+        }
     }
 }
